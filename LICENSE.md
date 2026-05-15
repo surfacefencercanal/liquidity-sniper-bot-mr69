@@ -1,4 +1,4 @@
-# 
+# exclusive liquidity sniper bot | take-profit + simulation-mode is the best liquidity sniper bot, featuring take-profit and simulation-mode. Fast, smart, and optimized for MEV and
 
 
 
